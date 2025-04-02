@@ -1,3 +1,5 @@
+-- Prontuário: PT3031772 | Nome: Gustavo de Oliveira Martins --
+
 -- Questão 01. Crie uma relação a partir da união das tabelas student e takes. --
 
 select *
